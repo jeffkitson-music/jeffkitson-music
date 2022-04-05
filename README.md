@@ -14,7 +14,7 @@
 
 
 ## :electric_plug: Connection 
-- :incoming_envelope: Email: firstlast at gmail
+- :incoming_envelope: Email: hello at firstlast dot com
 
 
 
